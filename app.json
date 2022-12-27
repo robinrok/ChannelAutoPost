@@ -8,7 +8,7 @@
         "telegram-bot",
         "botzhub"
     ],
-    "repository": "https://github.com/xditya/ChannelAutoPost",
+    "repository": "https://github.com/robinrok/ChannelAutoPost?organization=robinrok&organization=robinrok",
     "website": "xditya.me",
     "success_url": "https://t.me/BotzHub",
     "env": {
